@@ -1,28 +1,28 @@
 # 🍔 TopBurger - Sistema de Pedidos Online
 
-Projeto desenvolvido para a hamburgueria **TopBurger**, com foco em modernizar o atendimento e facilitar pedidos online.
+Aplicação web desenvolvida para a hamburgueria **TopBurger**, oferecendo cardápio digital e pedidos online de forma rápida e moderna.
 
-## 🚀 Funcionalidades
+## 🚀 Tecnologias Utilizadas
+
+- React.js
+- Tailwind CSS
+- Firebase
+- JavaScript
+- Vite
+
+## 📌 Funcionalidades
 
 - Cardápio digital interativo
-- Adição e remoção de itens no carrinho
-- Cálculo automático do total
-- Finalização de pedidos online
-- Layout responsivo para celular e desktop
+- Carrinho de compras
+- Cálculo automático do pedido
+- Finalização de pedidos
+- Interface responsiva
+- Integração com Firebase
 
-## 💻 Tecnologias Utilizadas
+## 💡 Objetivo
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Vite
-- Firebase
-
-## 📌 Objetivo
-
-Melhorar a experiência dos clientes e otimizar o processo de vendas da hamburgueria.
+Modernizar o atendimento da hamburgueria e melhorar a experiência dos clientes.
 
 ## 👨‍💻 Desenvolvido por
 
-**Kleberson Vasconcelos**
+Kleberson Vasconcelos
